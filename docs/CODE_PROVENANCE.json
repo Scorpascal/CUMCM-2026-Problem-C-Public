@@ -1,0 +1,227 @@
+{
+  "source": "formal submission support code",
+  "files": [
+    {
+      "path": "code/Q1/plot_preprocessing.py",
+      "source_sha256": "1da4ea5a14ce98a044fcaa5131846164114caf86cf68b42be88f3a1c759d291c",
+      "public_sha256": "1da4ea5a14ce98a044fcaa5131846164114caf86cf68b42be88f3a1c759d291c",
+      "status": "unchanged_from_formal_support"
+    },
+    {
+      "path": "code/Q1/solve_q1.py",
+      "source_sha256": "98bfebb0b88c7c883c5ca6713a66aa9ab9fd296f3767b4b313b6aab77ee31456",
+      "public_sha256": "98bfebb0b88c7c883c5ca6713a66aa9ab9fd296f3767b4b313b6aab77ee31456",
+      "status": "unchanged_from_formal_support"
+    },
+    {
+      "path": "code/Q1/test_q1.py",
+      "source_sha256": "effe66aca644a790d5bfc459b176b8dce37795718d5b0cb6898e21a28d4ae24e",
+      "public_sha256": "effe66aca644a790d5bfc459b176b8dce37795718d5b0cb6898e21a28d4ae24e",
+      "status": "unchanged_from_formal_support"
+    },
+    {
+      "path": "code/Q1/time_mapping.py",
+      "source_sha256": "7c20e08cfc3afa58b5e9ccb4c961bce1ae0e49e4e6e03ac6e99a01885383fee0",
+      "public_sha256": "7c20e08cfc3afa58b5e9ccb4c961bce1ae0e49e4e6e03ac6e99a01885383fee0",
+      "status": "unchanged_from_formal_support"
+    },
+    {
+      "path": "code/Q2/forecast_q2.py",
+      "source_sha256": "c8882cfbc8ff348642f88a782dc691b9c168fef50b3de150c2ceca0f51e517b3",
+      "public_sha256": "c8882cfbc8ff348642f88a782dc691b9c168fef50b3de150c2ceca0f51e517b3",
+      "status": "unchanged_from_formal_support"
+    },
+    {
+      "path": "code/Q2/report_q2.py",
+      "source_sha256": "d0e83ef4c434611454a726cae99e024f1d5aea0989a60ce83bbdc714c9199354",
+      "public_sha256": "d0e83ef4c434611454a726cae99e024f1d5aea0989a60ce83bbdc714c9199354",
+      "status": "unchanged_from_formal_support"
+    },
+    {
+      "path": "code/Q2/solve_q2.py",
+      "source_sha256": "0e422e1667b495c83b01da7a9a49b8567b66b792563f720ada5e149b651b2331",
+      "public_sha256": "0e422e1667b495c83b01da7a9a49b8567b66b792563f720ada5e149b651b2331",
+      "status": "unchanged_from_formal_support"
+    },
+    {
+      "path": "code/Q2/strategy_q2.py",
+      "source_sha256": "99851caf89217835f2b650884ed359ee90fc1bfaf91f04c5588aabf949763e2a",
+      "public_sha256": "99851caf89217835f2b650884ed359ee90fc1bfaf91f04c5588aabf949763e2a",
+      "status": "unchanged_from_formal_support"
+    },
+    {
+      "path": "code/Q2/test_q2.py",
+      "source_sha256": "0f655e022707537db0247bab9040b0122fb78d03a50e0d39cec065bcf62c8c22",
+      "public_sha256": "0f655e022707537db0247bab9040b0122fb78d03a50e0d39cec065bcf62c8c22",
+      "status": "unchanged_from_formal_support"
+    },
+    {
+      "path": "code/Q3/audit_q3.py",
+      "source_sha256": "1ab6f34a0d26faa8b85b4e547cb6630ba97ac1f1059cbcc136b71c5ab6ab14d0",
+      "public_sha256": "12a1c8bcae5526d3b78ad6ef078597a99b26bb25778ba7be0bac4514e5c09e50",
+      "status": "public_wrapper_adaptation"
+    },
+    {
+      "path": "code/Q3/diagnostics_q3.py",
+      "source_sha256": "9d0cbf9c72f716cdfd496b199098076e37909157912b500dee4ddc9f01e37afd",
+      "public_sha256": "9d0cbf9c72f716cdfd496b199098076e37909157912b500dee4ddc9f01e37afd",
+      "status": "unchanged_from_formal_support"
+    },
+    {
+      "path": "code/Q3/prepare_q3.py",
+      "source_sha256": "05292c96e553859a732b2fa4079e03e927dace57b64fcb15450e913f1035add6",
+      "public_sha256": "05292c96e553859a732b2fa4079e03e927dace57b64fcb15450e913f1035add6",
+      "status": "unchanged_from_formal_support"
+    },
+    {
+      "path": "code/Q3/q3_forecast.py",
+      "source_sha256": "ddf93155b924ade3ba84f31f2c1e3298e17741041b2dcea909a8824f01091142",
+      "public_sha256": "ddf93155b924ade3ba84f31f2c1e3298e17741041b2dcea909a8824f01091142",
+      "status": "unchanged_from_formal_support"
+    },
+    {
+      "path": "code/Q3/q3_model.py",
+      "source_sha256": "46683bc4bd0348e23d7f36eedef065ecc3eecc6441e98e53cdc3b6023e0e2c5b",
+      "public_sha256": "46683bc4bd0348e23d7f36eedef065ecc3eecc6441e98e53cdc3b6023e0e2c5b",
+      "status": "unchanged_from_formal_support"
+    },
+    {
+      "path": "code/Q3/report_q3.py",
+      "source_sha256": "ecb480fe8bf74094431c1f2a0742bc7c16789084c7ae708ec780f444ffb8b15c",
+      "public_sha256": "24a1069fde08d1d2d46cb4bb72aeb8a0fbaf04edf9ed5426294c8ef33fdaa540",
+      "status": "public_wrapper_adaptation"
+    },
+    {
+      "path": "code/Q3/solve_q3.py",
+      "source_sha256": "91b7400f8151c319796af70e2ffabfe1c11e7899118a9d39736c3b4147d89e98",
+      "public_sha256": "91b7400f8151c319796af70e2ffabfe1c11e7899118a9d39736c3b4147d89e98",
+      "status": "unchanged_from_formal_support"
+    },
+    {
+      "path": "code/Q3/test_q3.py",
+      "source_sha256": "cf469523bd4411ab1525076b9071951d29b56bf8497de244e1701939988d3250",
+      "public_sha256": "cf469523bd4411ab1525076b9071951d29b56bf8497de244e1701939988d3250",
+      "status": "unchanged_from_formal_support"
+    },
+    {
+      "path": "code/Q4/audit_q4.py",
+      "source_sha256": "bb7c86173d889ce2d025b44e90435ad9875e2b69ebf4f86414476f6ac6b5f206",
+      "public_sha256": "15883aaa35cf451621ebce9712bc5743431327083c404cd5cef4a8d11a44c923",
+      "status": "public_wrapper_adaptation"
+    },
+    {
+      "path": "code/Q4/export_workbooks_public.py",
+      "source_sha256": "4417cb7055c18c4550a3f1221f85867d17fe303df63c75727cf9e470f89c92e5",
+      "public_sha256": "4417cb7055c18c4550a3f1221f85867d17fe303df63c75727cf9e470f89c92e5",
+      "status": "unchanged_from_formal_support"
+    },
+    {
+      "path": "code/Q4/literature_q4.py",
+      "source_sha256": "f1c503f0cac5be79e8dcf1067b4551dc4fffef5769b6d652e8112f865a5f1e26",
+      "public_sha256": "f1c503f0cac5be79e8dcf1067b4551dc4fffef5769b6d652e8112f865a5f1e26",
+      "status": "unchanged_from_formal_support"
+    },
+    {
+      "path": "code/Q4/prepare_q4.py",
+      "source_sha256": "c1f0c2b20cada4abd7daca77f4b11ccdaee971d75b7f4d4b4881de73fcbfc942",
+      "public_sha256": "c1f0c2b20cada4abd7daca77f4b11ccdaee971d75b7f4d4b4881de73fcbfc942",
+      "status": "unchanged_from_formal_support"
+    },
+    {
+      "path": "code/Q4/price_diagnostics.py",
+      "source_sha256": "6d391eb1e9fbf398808f38725cf784d3f951c5b0d62165e5c0564c13d363f80e",
+      "public_sha256": "6d391eb1e9fbf398808f38725cf784d3f951c5b0d62165e5c0564c13d363f80e",
+      "status": "unchanged_from_formal_support"
+    },
+    {
+      "path": "code/Q4/q4_execution_mpc.py",
+      "source_sha256": "239788dd2a0a6bee94c0e5d774fff58b44206562cc4af5c897378fd59cba3a94",
+      "public_sha256": "239788dd2a0a6bee94c0e5d774fff58b44206562cc4af5c897378fd59cba3a94",
+      "status": "unchanged_from_formal_support"
+    },
+    {
+      "path": "code/Q4/q4_features.py",
+      "source_sha256": "c024c28d0e4d49366860fda2b1364e8528e8e852dc0f8aa77f93e7084ff961e0",
+      "public_sha256": "c024c28d0e4d49366860fda2b1364e8528e8e852dc0f8aa77f93e7084ff961e0",
+      "status": "unchanged_from_formal_support"
+    },
+    {
+      "path": "code/Q4/q4_model.py",
+      "source_sha256": "f767f55000345df130b23a96fab8a5e440e5954ed9b009ee53d8cc02197d0e46",
+      "public_sha256": "f767f55000345df130b23a96fab8a5e440e5954ed9b009ee53d8cc02197d0e46",
+      "status": "unchanged_from_formal_support"
+    },
+    {
+      "path": "code/Q4/q4_price_forecast.py",
+      "source_sha256": "743462b7b1362ccaa7427d6b5778151dc18df783ed50d96cd5eb5f367d7606fd",
+      "public_sha256": "743462b7b1362ccaa7427d6b5778151dc18df783ed50d96cd5eb5f367d7606fd",
+      "status": "unchanged_from_formal_support"
+    },
+    {
+      "path": "code/Q4/q4_risk.py",
+      "source_sha256": "9163dedb938c157e29221d54aebb487d9da71582f223c87048ce4e27a15df2b3",
+      "public_sha256": "9163dedb938c157e29221d54aebb487d9da71582f223c87048ce4e27a15df2b3",
+      "status": "unchanged_from_formal_support"
+    },
+    {
+      "path": "code/Q4/q4_utils.py",
+      "source_sha256": "4c67db7291eec6fcb82a7c84b0813201337538712d12556856c976c2eff8faf6",
+      "public_sha256": "4c67db7291eec6fcb82a7c84b0813201337538712d12556856c976c2eff8faf6",
+      "status": "unchanged_from_formal_support"
+    },
+    {
+      "path": "code/Q4/report_q4.py",
+      "source_sha256": "c51ca487e5018807d30c45573a6b392246aca878e6fcb9bf730c51cbb37cf8e1",
+      "public_sha256": "f1618329e60c8133039c27e5d2a5f5c814053b5bdd96badee869a92a100fc678",
+      "status": "public_wrapper_adaptation"
+    },
+    {
+      "path": "code/Q4/solve_q4.py",
+      "source_sha256": "92b0c7f50e1ed93b98933270c57b4d99227589bbdd336e83f6de8d2dadc1dada",
+      "public_sha256": "92b0c7f50e1ed93b98933270c57b4d99227589bbdd336e83f6de8d2dadc1dada",
+      "status": "unchanged_from_formal_support"
+    },
+    {
+      "path": "code/Q4/supplement_q4.py",
+      "source_sha256": "a8ec7e11b3701ccc6379cfcdd84d47474c44bc40c11e0ae68161edd26f2b6c28",
+      "public_sha256": "a8ec7e11b3701ccc6379cfcdd84d47474c44bc40c11e0ae68161edd26f2b6c28",
+      "status": "unchanged_from_formal_support"
+    },
+    {
+      "path": "code/Q4/test_q4.py",
+      "source_sha256": "bd541e517b34cdd5da4fcd41df13c90567ddb8b751fe0e5798394e09eab84c30",
+      "public_sha256": "bd541e517b34cdd5da4fcd41df13c90567ddb8b751fe0e5798394e09eab84c30",
+      "status": "unchanged_from_formal_support"
+    },
+    {
+      "path": "code/microgrid_adjustment.py",
+      "source_sha256": "aedf519a264caa93f2222416a877e2321f260a1aee2cbd10e11a1ade1c033f30",
+      "public_sha256": "aedf519a264caa93f2222416a877e2321f260a1aee2cbd10e11a1ade1c033f30",
+      "status": "unchanged_from_formal_support"
+    },
+    {
+      "path": "code/microgrid_common.py",
+      "source_sha256": "6d11f2697334a712abe7a4c018d0827b921f4dce59cf3f2107427850e446b5db",
+      "public_sha256": "6d11f2697334a712abe7a4c018d0827b921f4dce59cf3f2107427850e446b5db",
+      "status": "unchanged_from_formal_support"
+    },
+    {
+      "path": "code/microgrid_forecasts.py",
+      "source_sha256": "f6876b5d13c03dc041eedbce11bc8b3b4bac74fbfbca65265e8cc268463dba84",
+      "public_sha256": "f6876b5d13c03dc041eedbce11bc8b3b4bac74fbfbca65265e8cc268463dba84",
+      "status": "unchanged_from_formal_support"
+    },
+    {
+      "path": "code/microgrid_online.py",
+      "source_sha256": "bb6c0109b79ff47edf2ff07802dc3627b7593d8c1e0adfc6061c277be2727447",
+      "public_sha256": "bb6c0109b79ff47edf2ff07802dc3627b7593d8c1e0adfc6061c277be2727447",
+      "status": "unchanged_from_formal_support"
+    },
+    {
+      "path": "code/reproduce.py",
+      "source_sha256": "30452b243a4e83c90eee665582a22601dbd283a92890f6feded18b621132825c",
+      "public_sha256": "d47c90e795b900c28e5b6cd5a235b140d7dd870c0902ce67f455159ca6cf22a2",
+      "status": "public_wrapper_adaptation"
+    }
+  ]
+}

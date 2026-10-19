@@ -1,0 +1,8 @@
+{
+  "objective": 12227064.072917672,
+  "seconds": 2.013334583003598,
+  "variables": 240481,
+  "constraints": 96192,
+  "cycles_removed": 0,
+  "mip_gap": 0.0
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "tag": "public-v1.0.0",
+  "assets": [
+    {
+      "name": "CUMCM2026-C-Q3-public-v1.zip",
+      "bytes": 74762176,
+      "sha256": "811fabccb2a2507afa1c599d2a0aabffc93e2a92c6873f37b55ad9b6079fcff1",
+      "payload_files": 249
+    },
+    {
+      "name": "CUMCM2026-C-Q4-public-v1.zip",
+      "bytes": 562458609,
+      "sha256": "73b313f87b6b1c9211caa183a32683fb848a0c16e18aef7723843e50ed1f8e42",
+      "payload_files": 539
+    }
+  ],
+  "original_private_archives": [
+    {
+      "name": "Q3_frozen_v2.zip",
+      "sha256": "59e1f65263468d36d3eb4c9b2506d49220fccd89757142c94ec526cae06d41a4",
+      "status": "preserved_private_not_uploaded"
+    },
+    {
+      "name": "Q4_frozen_v2.zip",
+      "sha256": "bf68bee3491450033cde617b6420edaf532ec91f50f42c90dfe94099507c5330",
+      "status": "preserved_private_not_uploaded"
+    }
+  ]
+}

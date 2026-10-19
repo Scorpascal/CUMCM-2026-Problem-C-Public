@@ -1,0 +1,19 @@
+﻿model,nominal,coverage,width,pinball,method
+last,0.5,0.47648453093812376,0.10068467751996003,0.036892348246215914,rolling complete historical residual; no coverage guarantee
+last,0.8,0.7718521290751827,0.3196718494261479,0.022864565421240855,rolling complete historical residual; no coverage guarantee
+last,0.9,0.8615893213572842,0.3976984612025948,0.013000004361069524,rolling complete historical residual; no coverage guarantee
+mean7,0.5,0.46598469727212216,0.15144886675557623,0.03324835923391314,rolling complete historical residual; no coverage guarantee
+mean7,0.8,0.7544078509647367,0.24606469108014126,0.01608789744177319,rolling complete historical residual; no coverage guarantee
+mean7,0.9,0.8491766467065872,0.28179095072578064,0.009167596355113432,rolling complete historical residual; no coverage guarantee
+blend,0.5,0.46149367930805013,0.08504990793277037,0.02162363850060605,rolling complete historical residual; no coverage guarantee
+blend,0.8,0.7461743180306055,0.15710454322382025,0.011899699345418789,rolling complete historical residual; no coverage guarantee
+blend,0.9,0.8420866600133066,0.1916024706263316,0.007094651121916014,rolling complete historical residual; no coverage guarantee
+seasonal,0.5,0.42907934131736525,0.13544500920034924,0.037005422434211434,rolling complete historical residual; no coverage guarantee
+seasonal,0.8,0.7364853626081175,0.2719247964141163,0.01980529209809546,rolling complete historical residual; no coverage guarantee
+seasonal,0.9,0.835370924817033,0.3263640836382788,0.01154320555936738,rolling complete historical residual; no coverage guarantee
+ridge30,0.5,0.4726588489687289,0.07483055836945254,0.01944505674189617,rolling complete historical residual; no coverage guarantee
+ridge30,0.8,0.7506029607451765,0.14274064151284138,0.011270056743783544,rolling complete historical residual; no coverage guarantee
+ridge30,0.9,0.8456212574850291,0.17998361146385658,0.0068819540749622595,rolling complete historical residual; no coverage guarantee
+ridge_expanding,0.5,0.47573602794411163,0.07233215792173489,0.0186734676713042,rolling complete historical residual; no coverage guarantee
+ridge_expanding,0.8,0.7547405189620754,0.13812607965296442,0.010862377366049671,rolling complete historical residual; no coverage guarantee
+ridge_expanding,0.9,0.8501330671989351,0.17331311534108018,0.00662177483994427,rolling complete historical residual; no coverage guarantee

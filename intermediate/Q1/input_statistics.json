@@ -1,0 +1,13 @@
+{
+  "record_count": 144,
+  "period_start": "0:00-0:10",
+  "period_end": "23:50-24:00",
+  "price_min_yuan_per_kwh": 0.3713,
+  "price_min_period": "5:30-5:40",
+  "price_max_yuan_per_kwh": 1.3952,
+  "price_max_period": "20:30-20:40",
+  "load_max_kw": 5958.9696,
+  "load_max_period": "9:00-9:10",
+  "pv_max_kw": 7612.315999999999,
+  "pv_max_period": "12:00-12:10"
+}

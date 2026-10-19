@@ -1,0 +1,25 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+.matplotlib/
+.env
+.env.*
+.~*
+~$*
+node_modules/
+# Official inputs are supplied locally, never committed.
+/code/附件/
+# Do not commit generated rerun outputs or downloaded releases.
+*.zip
+*.zip.sha256
+/release-downloads/
+/local-audit/
+*.log
+# Recomputed numerical outputs belong to a separate working copy.
+/code/Q*/**/*.npz
+/code/Q*/**/*.csv
+/code/Q*/**/*.json
+/code/Q*/**/*.xlsx
+/code/Q*/**/*.png
+/code/Q*/**/*.svg
